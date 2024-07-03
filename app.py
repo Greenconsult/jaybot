@@ -3,8 +3,8 @@ import streamlit as st
 import pyttsx3
 from pydub import AudioSegment
 
-client = Client('AyushS9020/Bimbola_Project_Iter4')
-# client = Client('Julius133/Jaybot')
+# client = Client('AyushS9020/Bimbola_Project_Iter4')
+client = Client('Julius133/Jaybot')
 
 def answer(query) : 
 
