@@ -1,0 +1,4 @@
+gradio_client 
+streamlit
+pyttsx3
+pydub
